@@ -3,8 +3,6 @@ import {
     Card,
     CardMedia,
     CardContent,
-    CardActions,
-    Button,
     Container,
     IconButton,
     InputBase,
@@ -51,7 +49,7 @@ const Home = () => {
                 </Paper>
             </Container>
 
-            <Container maxWidht="md" className={classes.cardGrid}>
+            <Container maxWidht="lg" className={classes.cardGrid}>
                 <Typography component="h2" variant="h4" align="center" color="textPrimary">
                     Destaques
                 </Typography>
