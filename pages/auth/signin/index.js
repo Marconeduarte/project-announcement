@@ -1,6 +1,5 @@
 import Image from 'next/image'
 import { Formik } from 'formik'
-import axios from 'axios'
 import { useRouter } from 'next/router'
 import { signIn, useSession } from 'next-auth/client'
 
@@ -10,7 +9,6 @@ import {
     Box,
     InputLabel,
     Input,
-    Alert,
     FormControl,
     FormHelperText,
     Button,
@@ -18,9 +16,10 @@ import {
 } from '@material-ui/core'
 
 import TemplateDefault from '../../../src/templates/Default'
-import useToasty from '../../../src/contexts/Toasty'
 import { initialValues, validationSchema } from './formValues'
+import useToasty from '../../../src/contexts/Toasty'
 import useStyles from './styles'
+import Alert from '@material-ui/lab/Alert'
 
 const Signin = ({ APP_URL }) => {
     const classes = useStyles()
@@ -157,7 +156,7 @@ const Signin = ({ APP_URL }) => {
     )
 }
 
-Signin.getServerSideProps = async function() {
+Signin.getInitialProps = async function() {
     return {
         APP_URL: process.env.APP_URL
     }

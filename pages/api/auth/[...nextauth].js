@@ -33,5 +33,5 @@ export default NextAuth({
         secret: process.env.JWT_TOKEN,
     },
 
-    database: process.env.MONGODB_URI,
+    database: process.env.MONGODB_URL,
 })
