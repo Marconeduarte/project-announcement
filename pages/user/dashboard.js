@@ -24,7 +24,7 @@ import Card from '../../src/components/Card'
 import { formatCurrency } from '../../src/utils/currency'
 import useToasty from '../../src/context/Toasty'
 
-const useStyles = makeStyles((theme) => ({
+const useStyles = makeStyles(() => ({
   buttonAdd: {
     margin: '30px auto 50px auto',
     display: 'inline-block',
