@@ -6,8 +6,6 @@
 
 - 💬 My knowledge **JavaScript, HTML, CSS, React.js, Next.js, Node.JS, MongoDB and between others**
 
-<!--
-
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
@@ -30,10 +28,10 @@
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/marcone-duarte-637765139" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-marcone-duarte-637765139-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-marconeduarte-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/marcone.m7" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-marcone.m7-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-marconeduarte-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
