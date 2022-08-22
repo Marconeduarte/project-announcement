@@ -6,7 +6,13 @@
 
 - 💬 My knowledge **JavaScript, HTML, CSS, React.js, Next.js, Node.JS, MongoDB and between others**
 
-<br><br>
+<br>
+
+<h1>Sobre</h1>
+
+<p>Esta é uma página de anúncio onde o usuário pode criar uma conta no próprio sistema ou no google e também pode fazer login e logoff, podendo também cadastrar e remover o anúncio sempre que quiser, carregando imagens coolocando uma como principal, tem varias interações na tela e mensagens de alerta de sucesso ou de erro, com uma outra página para pesquisar produtos, e com itegração com banco de dados. É uma página fácil de mexer e autoexplicativa. </p>
+
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -22,7 +28,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br><br>
+<br>
 
 ## Contact
 
